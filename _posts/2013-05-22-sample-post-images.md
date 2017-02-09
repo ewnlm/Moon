@@ -15,7 +15,7 @@ Here are some examples of what a post with images might look like. If you want t
 
 <figure>
 	<a href="https://github.com/ewnlm/shirley/blob/gh-pages/assets/img/package.JPG"><img src="https://github.com/ewnlm/shirley/blob/gh-pages/assets/img/package.JPG"></a>
-	<figcaption><a href="http://www.flickr.com/photos/80901381@N04/7758832526/" title="Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr">Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr</a>.</figcaption>
+	<figcaption><a title="package example">Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr</a>.</figcaption>
 </figure>
 
 Vero laborum commodo occupy. Semiotics voluptate mumblecore pug. Cosby sweater ullamco quinoa ennui assumenda, sapiente occupy delectus lo-fi. Ea fashion axe Marfa cillum aliquip. Retro Bushwick keytar cliche. Before they sold out sustainable gastropub Marfa readymade, ethical Williamsburg skateboard brunch qui consectetur gentrify semiotics. Mustache cillum irony, fingerstache magna pour-over keffiyeh tousled selfies.
@@ -26,8 +26,8 @@ Apply the `half` class like so to display two images side by side that share the
 
 {% highlight html %}
 <figure class="half">
-    <a href="/images/image-filename-1-large.jpg"><img src="/images/image-filename-1.jpg"></a>
-    <a href="/images/image-filename-2-large.jpg"><img src="/images/image-filename-2.jpg"></a>
+    <a href="https://github.com/ewnlm/shirley/blob/gh-pages/assets/img/shirley_soap5.JPG"><img src="https://github.com/ewnlm/shirley/blob/gh-pages/assets/img/shirley_soap5.JPG"></a>
+    <a href="https://github.com/ewnlm/shirley/blob/gh-pages/assets/img/shirley_soap6.JPG"><img src="https://github.com/ewnlm/shirley/blob/gh-pages/assets/img/shirley_soap6.JPG"></a>
     <figcaption>Caption describing these two images.</figcaption>
 </figure>
 {% endhighlight %}
@@ -46,9 +46,9 @@ Apply the `third` class like so to display three images side by side that share 
 
 {% highlight html %}
 <figure class="third">
-	<img src="/images/image-filename-1.jpg">
-	<img src="/images/image-filename-2.jpg">
-	<img src="/images/image-filename-3.jpg">
+	<img src="https://github.com/ewnlm/shirley/blob/gh-pages/assets/img/shirley_soap1.JPG">
+	<img src="https://github.com/ewnlm/shirley/blob/gh-pages/assets/img/shirley_soap2.JPG">
+	<img src="https://github.com/ewnlm/shirley/blob/gh-pages/assets/img/shirley_soap3.JPG">
 	<figcaption>Caption describing these three images.</figcaption>
 </figure>
 {% endhighlight %}
