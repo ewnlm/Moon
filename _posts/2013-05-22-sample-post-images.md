@@ -28,6 +28,19 @@ Apply the `half` class like so to display two images side by side that share the
     <figcaption>Caption describing these two images.</figcaption>
 </figure>
 
+<figure class="half">
+    <a href="http://i.imgur.com/Zh9e2Z5.jpg"><img src="http://i.imgur.com/Zh9e2Z5.jpg"></a>
+    <a href="http://i.imgur.com/Iu1R3aB.jpg"><img src="http://i.imgur.com/Iu1R3aB.jpg"></a>
+    <figcaption>Caption describing these two images.</figcaption>
+</figure>
+
+<figure class="half">
+    <a href="http://i.imgur.com/lfGLYgs.jpg"><img src="http://i.imgur.com/lfGLYgs.jpg"></a>
+    <a href="http://i.imgur.com/R6zH7Kj.jpg"><img src="http://i.imgur.com/R6zH7Kj.jpg"></a>
+    <figcaption>Caption describing these two images.</figcaption>
+</figure>
+
+
 
 
 #### Three Up
@@ -43,3 +56,9 @@ Apply the `third` class like so to display three images side by side that share 
 </figure>
 
 
+<figure class="third">
+	<img src="http://i.imgur.com/2Z7e0sd.jpg">
+	<img src="http://i.imgur.com/YDn6MLH.jpg">
+	<img src="http://i.imgur.com/eEpFp5i.jpg">
+	<figcaption>Caption describing these three images.</figcaption>
+</figure>
