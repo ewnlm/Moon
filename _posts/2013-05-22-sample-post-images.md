@@ -12,7 +12,7 @@ comments: true
 #### One Up
 
 <figure>
-	<a href="http://imgur.com/IDDBcbd"><img src="http://imgur.com/IDDBcbd"></a>
+	<a href="http://i.imgur.com/IDDBcbd.jpg"><img src="http://i.imgur.com/IDDBcbd.jpg"></a>
 	<figcaption><a title="package example">imgurl example</a>.</figcaption>
 </figure>
 
@@ -21,25 +21,25 @@ comments: true
 
 Apply the `half` class like so to display two images side by side that share the same caption.
 
-{% highlight html %}
+
 <figure class="half">
-    <a href="http://imgur.com/5QpqdOS"><img src="http://imgur.com/5QpqdOS"></a>
-    <a href="http://imgur.com/gtLoMeg"><img src="http://imgur.com/gtLoMeg"></a>
+    <a href="http://i.imgur.com/5QpqdOS.jpg"><img src="http://i.imgur.com/5QpqdOS.jpg"></a>
+    <a href="http://i.imgur.com/gtLoMeg.jpg"><img src="http://i.imgur.com/gtLoMeg.jpg"></a>
     <figcaption>Caption describing these two images.</figcaption>
 </figure>
-{% endhighlight %}
+
 
 
 #### Three Up
 
 Apply the `third` class like so to display three images side by side that share the same caption.
 
-{% highlight html %}
+
 <figure class="third">
-	<img src="http://imgur.com/x10ylMD">
-	<img src="http://imgur.com/cGN9T9K">
-	<img src="http://imgur.com/EH8SgaL">
+	<img src="http://i.imgur.com/x10ylMD.jpg">
+	<img src="http://i.imgur.com/cGN9T9K.jpg">
+	<img src="http://i.imgur.com/EH8SgaL.jpg">
 	<figcaption>Caption describing these three images.</figcaption>
 </figure>
-{% endhighlight %}
+
 
